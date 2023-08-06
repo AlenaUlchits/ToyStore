@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed3506e8-98c3-4901-b44b-e7c5c9c23fc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Store.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/PrizeSelectionI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/PrizeStorageI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/implimentation/PrizeSelectionImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/implimentation/PrizeStorageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ToyStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/AddNewToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/Raffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/UpdateToyWeight.java" afterDir="false" />
-    </list>
+    <list default="true" id="ed3506e8-98c3-4901-b44b-e7c5c9c23fc4" name="Changes" comment="Final task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +40,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -76,11 +57,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691306517042</updated>
-      <workItem from="1691306518339" duration="4748000" />
+      <workItem from="1691306518339" duration="5055000" />
     </task>
+    <task id="LOCAL-00001" summary="Final task">
+      <created>1691311459999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691311459999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final task" />
   </component>
 </project>
